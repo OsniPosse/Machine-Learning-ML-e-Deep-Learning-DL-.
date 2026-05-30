@@ -15,7 +15,7 @@ Criar um conjunto de prompts reutilizáveis para revisões futuras.
 
 Documentar o processo de engenharia de prompts e as “cicatrizes” adquiridas ao interagir com a IA.
 
- 2. Curadoria de Fontes
+ 1. Curadoria de Fontes
 Fontes abertas utilizadas e enviadas ao NotebookLM:
 
 Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow – Capítulos introdutórios
@@ -28,7 +28,7 @@ Stanford CS231n – Convolutional Neural Networks
 
 MIT Introduction to Deep Learning
 
- 3. Engenharia de Prompts e “Cicatrizes”
+ 2. Engenharia de Prompts e “Cicatrizes”
  Prompts Estratégicos Utilizados
 Explicar conceitos básicos de Machine Learning
 
@@ -56,7 +56,7 @@ Respostas longas demais → resolvido com “resuma em até 5 tópicos”.
 
 Confusão entre CNN e RNN → resolvido especificando “arquitetura CNN para visão computacional”.
 
-Machine Learning — Visão Geral
+*Machine Learning — Visão Geral*
 
 ML é a área da IA que cria modelos capazes de aprender padrões.
 
@@ -68,16 +68,15 @@ Não supervisionado — descobre padrões.
 
 Reforço — aprende por tentativa e erro.
 
- Deep Learning — Visão Geral
-Código
-Entrada → Camadas Ocultas (muitas) → Saída
+ *Deep Learning — Visão Geral*
+
 Subárea do ML baseada em redes neurais profundas.
 
 Excelente para visão computacional, NLP e reconhecimento de voz.
 
 Requer grandes volumes de dados e GPUs.
 
- Arquiteturas Importantes
+ 1.Arquiteturas Importantes
 CNN — Convolutional Neural Networks
 Usadas para visão computacional.
 
@@ -87,7 +86,7 @@ Usadas para sequências e séries temporais.
 Transformers — Arquitetura Moderna
 Base de modelos como ChatGPT, Gemini, LLaMA.
 
- 4.2 Glossário Essencial
+2.Glossário Essencial
 Overfitting — modelo aprende demais os dados de treino.
 
 Underfitting — modelo aprende de menos.
@@ -106,7 +105,7 @@ Função de perda — mede erro do modelo.
 
 Regularização — técnicas para evitar overfitting.
 
- 4.3 Conjunto de Prompts Reutilizáveis
+ 3. Conjunto de Prompts Reutilizáveis
  Prompts Básicos
 Explique este conceito como se eu fosse iniciante
 
